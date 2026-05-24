@@ -1,0 +1,16 @@
+
+> finup@1.0.0 web
+> expo start --web --port 8081
+
+Starting project at C:\Users\divan\Documents\PROJETOS GITHUB\finup
+Starting Metro Bundler
+
+Waiting on http://localhost:8081
+Logs for your project will appear below.
+Web Bundled 1126ms index.ts (1944 modules)
+Web Bundled 780ms index.ts (1 module)
+Web  INFO  %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+Web  LOG  Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.

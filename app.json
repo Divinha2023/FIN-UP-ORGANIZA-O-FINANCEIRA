@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "FinUp",
+    "slug": "finup",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "backgroundColor": "#0B1F33",
+    "scheme": "finup",
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [],
+    "android": {
+      "package": "com.divanildo2026.finup",
+      "softwareKeyboardLayoutMode": "resize"
+    }
+  }
+}
