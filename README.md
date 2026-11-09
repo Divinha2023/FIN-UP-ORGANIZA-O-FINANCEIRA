@@ -4,13 +4,6 @@ FinUp is a premium personal finance mobile prototype built with Expo and React N
 
 The app now stores financial information locally on the device with AsyncStorage. Transactions, goals, budget limits, theme preference and onboarding state remain saved after closing or reopening the app.
 
-## Brand
-
-- Name: FinUp
-- Slogan: Sua vida financeira no controle.
-- Personality: modern, reliable, secure, accessible and intelligent
-- Primary palette: `#00C853`, `#0B1F33`, `#123A4A`, `#F5F7FA`, `#D9E2EC`, `#5F6C7B`, `#FFC857`, `#FF4D4D`
-
 ## Screens
 
 - Splash screen
